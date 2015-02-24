@@ -1,0 +1,2 @@
+(display "something")
+(newline)
